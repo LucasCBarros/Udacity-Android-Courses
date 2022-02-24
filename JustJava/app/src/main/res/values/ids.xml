@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="quantity_text_view" type="id">0</item>
+    <item name="price_text_view" type="id">0</item>
+    <item name="order_summary_text_view" type="id">0</item>
+</resources>
